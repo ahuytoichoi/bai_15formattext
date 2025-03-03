@@ -62,7 +62,7 @@
             // thoátToolStripMenuItem
             // 
             this.thoátToolStripMenuItem.Name = "thoátToolStripMenuItem";
-            this.thoátToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.thoátToolStripMenuItem.Size = new System.Drawing.Size(102, 22);
             this.thoátToolStripMenuItem.Text = "thoát";
             this.thoátToolStripMenuItem.Click += new System.EventHandler(this.thoátToolStripMenuItem_Click);
             // 
@@ -77,7 +77,7 @@
             // formatTextToolStripMenuItem
             // 
             this.formatTextToolStripMenuItem.Name = "formatTextToolStripMenuItem";
-            this.formatTextToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.formatTextToolStripMenuItem.Size = new System.Drawing.Size(133, 22);
             this.formatTextToolStripMenuItem.Text = "FormatText";
             this.formatTextToolStripMenuItem.Click += new System.EventHandler(this.formatTextToolStripMenuItem_Click);
             // 
@@ -94,6 +94,7 @@
             this.thôngTinToolStripMenuItem.Name = "thôngTinToolStripMenuItem";
             this.thôngTinToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.thôngTinToolStripMenuItem.Text = "thông tin";
+            this.thôngTinToolStripMenuItem.Click += new System.EventHandler(this.thôngTinToolStripMenuItem_Click);
             // 
             // lblInfo
             // 
